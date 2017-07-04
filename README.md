@@ -1,16 +1,7 @@
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Welcome to your Node.js project on Cloud9 IDE!
-
 ## Running the server
 
-1) `$ npm start`
+1) `$ npm install`
 
-2) Go to [https://reusable-react-tonnamb.c9users.io/](https://reusable-react-tonnamb.c9users.io/)
+2) `$ npm start`
+
+3) On cloud9, go to https://reusable-react-tonnamb.c9users.io/.
