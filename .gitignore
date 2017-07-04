@@ -1,0 +1,21 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/reusable-react/node_modules
+
+# testing
+/reusable-react/coverage
+
+# production
+/reusable-react/build
+
+# misc
+/reusable-react/.DS_Store
+/reusable-react/.env.local
+/reusable-react/.env.development.local
+/reusable-react/.env.test.local
+/reusable-react/.env.production.local
+
+/reusable-react/npm-debug.log*
+/reusable-react/yarn-debug.log*
+/reusable-react/yarn-error.log*
