@@ -1,8 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Docs from './docs/Docs';
 import './index.css';
-import App from './App';
+import '../node_modules/highlight.js/styles/ocean.css';
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
+  <Docs />,
+  document.getElementById('root')
+);
+
 registerServiceWorker();
